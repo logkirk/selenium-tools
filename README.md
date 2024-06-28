@@ -6,6 +6,13 @@ Selenium Tools
 [mailing list](https://lists.sr.ht/~logankirkland/selenium-tools) /
 [issues](https://todo.sr.ht/~logankirkland/selenium-tools)
 
+
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![builds.sr.ht status](https://builds.sr.ht/~logankirkland/selenium-tools.svg)](https://builds.sr.ht/~logankirkland/selenium-tools?)
+
+> ℹ️ **Note**  
+> The canonical project locations are linked above. Other locations are mirrors.
+
 This is a simple template for a selenium web-based test library. It includes some tools
 which help make selenium-based tests more robust and reliable.
 
@@ -99,8 +106,3 @@ python -m unittest tests.ExampleTestSuite.test_example_test
 
 See [unittest documentation](https://docs.python.org/3/library/unittest.html) for more
 details.
-
-Reporting
----------
-
-TODO
